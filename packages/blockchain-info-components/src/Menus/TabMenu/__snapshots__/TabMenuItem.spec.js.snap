@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TabMenuItem component default renders correctly 1`] = `
+<styled.span
+  role="button"
+  selected={true}
+/>
+`;
